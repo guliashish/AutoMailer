@@ -1,0 +1,10 @@
+C:\Users\w10\source\repos\AutoMailer\AutoMailer\bin\Debug\AutoMailer.exe.config
+C:\Users\w10\source\repos\AutoMailer\AutoMailer\bin\Debug\AutoMailer.exe
+C:\Users\w10\source\repos\AutoMailer\AutoMailer\bin\Debug\AutoMailer.pdb
+C:\Users\w10\source\repos\AutoMailer\AutoMailer\obj\Debug\AutoMailer.csprojAssemblyReference.cache
+C:\Users\w10\source\repos\AutoMailer\AutoMailer\obj\Debug\AutoMailer.Properties.Resources.resources
+C:\Users\w10\source\repos\AutoMailer\AutoMailer\obj\Debug\AutoMailer.csproj.GenerateResource.cache
+C:\Users\w10\source\repos\AutoMailer\AutoMailer\obj\Debug\AutoMailer.csproj.CoreCompileInputs.cache
+C:\Users\w10\source\repos\AutoMailer\AutoMailer\obj\Debug\AutoMailer.exe
+C:\Users\w10\source\repos\AutoMailer\AutoMailer\obj\Debug\AutoMailer.pdb
+C:\Users\w10\source\repos\AutoMailer\AutoMailer\obj\Debug\AutoMailer.Form1.resources

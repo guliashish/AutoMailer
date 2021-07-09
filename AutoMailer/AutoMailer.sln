@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoMailer", "AutoMailer\AutoMailer.csproj", "{3A9C97D9-805D-492E-8A7D-0530D42C0EAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A9C97D9-805D-492E-8A7D-0530D42C0EAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A9C97D9-805D-492E-8A7D-0530D42C0EAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A9C97D9-805D-492E-8A7D-0530D42C0EAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A9C97D9-805D-492E-8A7D-0530D42C0EAF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {911B42B7-0C96-49D6-85B4-12A4CE0D7109}
+	EndGlobalSection
+EndGlobal
